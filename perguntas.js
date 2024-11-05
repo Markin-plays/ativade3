@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'ciencia',
+    'O que é Eletroeletrônica??',
+    'Eletrônica é a ciência que estuda a utilização de circuitos formados por componentes'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'FBD',
+    'O que é a linguagem FBD?',
+    'É um tipo de programação que utiliza blocos'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'ladder',
+    'O que é linguagem ladder?',
+    'é a programação que usa contatos e bobinas em CLP'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Arduíno',
+    'Em que linguagem é programado um arduíno?',
+    'Um arduíno é programado em C++ mas possui algumas diferenças'
 )
